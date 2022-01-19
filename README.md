@@ -8,5 +8,10 @@ I torture myself working in C, C++ :)
 
 
 ![](https://raw.githubusercontent.com/andrei811/donut-shape-console/main/image/donut.gif)
+
+
+
+
+
 Email 📬
 jkaczmar@student.42wolfsburg.de
