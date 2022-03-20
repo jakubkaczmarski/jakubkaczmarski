@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jakub 18yr, a software developer 💻 currently studying at 42 Wolfsburg :)
+I'm Jakub a software developer 💻 currently studying at 42 Wolfsburg :)
 
 I torture myself working in C, C++ :)
 
