@@ -8,7 +8,7 @@ I torture myself with C, C++ :)
 
 
 ![](https://raw.githubusercontent.com/andrei811/donut-shape-console/main/image/donut.gif)
-[![jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubkaczmarski)](https://github.com/anuraghazra/github-readme-stats)
+[![jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubkaczmarski&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
