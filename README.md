@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A passionate software Developer currently studying in 42 Wolfsburg</h3>
 
+#I torture myself with C, C++ :)
+
+<!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jkaczmar?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42) -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubkaczmarski&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkaczmarski" /> </p>
 
 - 🔭 I’m currently working on [Cube3d](https://github.com/42Wolfsburg-Jakub-Kaczmarski/Cube3D)
@@ -22,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakubkaczmarski&show_icons=true&locale=en" alt="jakubkaczmarski" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakubkaczmarski&" alt="jakubkaczmarski" /></p>
+
+![](https://raw.githubusercontent.com/andrei811/donut-shape-console/main/image/donut.gif)
