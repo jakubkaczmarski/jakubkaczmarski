@@ -7,7 +7,7 @@ I torture myself mostly with C, C++ :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubkaczmarski&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkaczmarski" /> </p>
 
-- 🔭 I’m currently working on [Ft_containers](https://github.com/42Wolfsburg-Jakub-Kaczmarski/ft_containers)
+- 🔭 I’m currently working on [Ft_containers](https://github.com/jakubkaczmarski/ft_containers)
 
 - 🌱 I’m currently learning **C++**
 
