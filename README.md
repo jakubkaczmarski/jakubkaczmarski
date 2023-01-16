@@ -9,7 +9,7 @@ I torture myself mostly with C, C++ :)
 
 <!-- - 🔭 I’m currently working on [](https://github.com/jakubkaczmarski/ft_transcendance) -->
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Typescript and React**
 
 - 📫 How to reach me **jkaczmar@student.42wolfsburg.de**
 
