@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">A passionate software Developer currently doing an Internship <a href="https://textshuttle.com/en/" target="blank"> @Textshuttle </a> and studying at <a href="https://42wolfsburg.de/"> @42 Wolfsburg</h3>  </a> 
+<h3 align="center">A passionate software Developer currently doing an Internship <a href="https://textshuttle.com/en/" target="blank"> @Textshuttle </a> </h3>
 
 I torture myself mostly with C, C++ :)
 
