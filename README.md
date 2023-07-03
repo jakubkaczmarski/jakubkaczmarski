@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A passionate Software Developer currently doing Internship <a href="https://textshuttle.com/en/" target="blank"> @Textshuttle </a> </h3>
 
-I torture myself mostly with C, C++ :)
+I torture myself mostly with C, C++, Typescript, Python and React :)
 
 <!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jkaczmar?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42) -->
 
