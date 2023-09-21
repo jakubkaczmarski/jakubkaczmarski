@@ -9,8 +9,6 @@ Building things mainly with C, C++, Typescript, Python and React :)
 
 <!-- - 🔭 I’m currently working on [](https://github.com/jakubkaczmarski/ft_transcendance) -->
 
-- 🌱 I’m currently learning **Typescript and React**
-
 - 📫 How to reach me **jkaczmar@student.42wolfsburg.de**
 
 <h3 align="left">Connect with me:</h3>
