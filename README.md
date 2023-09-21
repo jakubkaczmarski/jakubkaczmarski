@@ -7,8 +7,6 @@ Building things mainly with C, C++, Typescript, Python and React :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubkaczmarski&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkaczmarski" /> </p>
 
-<!-- - 🔭 I’m currently working on [](https://github.com/jakubkaczmarski/ft_transcendance) -->
-
 - 📫 How to reach me **jkaczmar@student.42wolfsburg.de**
 
 <h3 align="left">Connect with me:</h3>
