@@ -7,7 +7,7 @@ Building things mainly with C, C++, Typescript, Python and React :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubkaczmarski&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkaczmarski" /> </p>
 
-- 📫 How to reach me **jkaczmar@student.42wolfsburg.de**
+- 📫 How to reach me **jakubkaczmarski.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
