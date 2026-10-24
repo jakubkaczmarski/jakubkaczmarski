@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jakub 👋</h1>
 
 <p align="center">
-  <b>Technical co-founder · Backend & infrastructure engineer · Kraków, PL</b>
+  <b>Technical co-founder · Backend & infrastructure engineer · Kraków, PL / Zurich, CH </b>
 </p>
 
 <p align="center">
