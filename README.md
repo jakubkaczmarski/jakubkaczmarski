@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jakub 👋</h1>
 
 <p align="center">
-  <b>Technical co-founder · Backend & infrastructure engineer · Kraków, PL / Zurich, CH </b>
+  <b>Technical co-founder · Backend & infrastructure engineer · Kraków, PL</b>
 </p>
 
 <p align="center">
@@ -33,13 +33,6 @@ I build data pipelines, APIs and the infrastructure that keeps them running.
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-</p>
-
-### GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jakubkaczmarski&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubkaczmarski&layout=compact&hide_border=true&theme=default" alt="Top languages">
 </p>
 
 ---
