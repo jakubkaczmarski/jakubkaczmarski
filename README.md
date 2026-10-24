@@ -1,21 +1,47 @@
-<h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center"> Software Developer </h3>
+<h1 align="center">Hi, I'm Jakub 👋</h1>
 
-Building things mainly with C, C++, Typescript, Python and React :)
-
-<!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jkaczmar?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42) -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubkaczmarski&label=Profile%20views&color=0e75b6&style=flat" alt="jakubkaczmarski" /> </p>
-
-- 📫 How to reach me **jakubkaczmarski.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jakub-kaczmarski-690081232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub kaczmarski" height="30" width="40" /></a>
+<p align="center">
+  <b>Technical co-founder · Backend & infrastructure engineer · Kraków, PL</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jakubkaczmarski&style=flat&color=555555&label=profile+views" alt="Profile views">
+</p>
 
+---
 
-![](https://raw.githubusercontent.com/andrei811/donut-shape-console/main/image/donut.gif)
+### About
+
+I build data pipelines, APIs and the infrastructure that keeps them running.
+
+- 🔭 **Technical co-founder at [The Veck](https://theveck.com)** — Startup Discovery Engine for VCs
+- 🏗️ **Co-founder of Bluewall Tech GmbH** — where we build software products
+- 🎓 Outside of coding, I study international relations at Jagiellonian University
+- ⚙️ Happiest somewhere between a webhook, a Kubernetes cluster and a well-structured dataset
+- 🌍 Working in Polish, English and German
+
+### Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white" alt="Argo CD">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+</p>
+
+### GitHub stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jakubkaczmarski&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubkaczmarski&layout=compact&hide_border=true&theme=default" alt="Top languages">
+</p>
+
+---
+
+<p align="center"><sub>Open to interesting problems in data infrastructure, DevOps and early-stage products — feel free to reach out.</sub></p>
